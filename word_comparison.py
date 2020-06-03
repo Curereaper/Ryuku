@@ -41,7 +41,7 @@ for x in range(100):
      wordlist1.insert(x,' ')
      i += 1
      ans += '×'
-    else:
+    else: 
      ans += '×'
   else:
    ans += '×'
